@@ -1,0 +1,15 @@
+{
+  "certificate": {
+    "title": "Certificate of Completion",
+    "course_name": "Introduction to Python",
+    "issuer_name": "Acme Academy",
+    "issue_date": "2026-10-01"
+  },
+  "recipients": [
+    { "name": "Alice Smith", "email": "alice@example.com" },
+    { "name": "Bob Jones", "email": "bob@example.com" },
+    { "name": "José Müller" },
+    { "name": "", "email": "nobody@example.com" },
+    { "name": "Bad Email", "email": "not-an-email" }
+  ]
+}
